@@ -128,9 +128,8 @@ celerybeat.pid
 *.sage.py
 
 # Environments
-qobuz_credentials.env
 .venv
-env/
+#env/
 venv/
 ENV/
 env.bak/
