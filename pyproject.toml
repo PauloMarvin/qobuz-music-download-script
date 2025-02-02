@@ -7,9 +7,10 @@ readme = "README.md"
 
 [tool.poetry.dependencies]
 python = "^3.11"
-qobuz-dl = "^0.9.9.10"
 python-dotenv = "^1.0.1"
 notebook = "^7.3.2"
+pillow = "^11.1.0"
+qobuz-dl = "^0.9.9.10"
 
 
 [tool.poetry.group.dev.dependencies]
